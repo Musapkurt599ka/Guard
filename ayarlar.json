@@ -1,0 +1,26 @@
+{
+    
+    
+    "botOwner":"",
+    "tacSahibi": "",
+    "botPrefix":".",
+    "botToken":"",
+    "guildID":"",
+    "sesamk":"",
+    "altbaslık":"null 💛",
+    "logChannelID":"",
+    "channelGuard":true,
+    "roleGuard":true,
+    "serverGuard":true,
+    "botGuard":true,
+    "banGuard":true,
+    "kickGuard":true,
+    "whitelist":[],
+    "boosterRole":"",
+    "jailRole":"",
+    "oynuyor":["null 💛","null 💚","null 💜","null 💓","null 💙","null 🖤"],
+    "Sunucu": {"Sunucuadı": "", "SunucuURL": "","Sunucuresmi": "https://i.hizliresim.com/793k1rm.gif","Sunucuafişi":"https://i.hizliresim.com/273ifjj.jpg"},
+    "Roller": {"Kurucu": "","Altkurucu": "","Ceo": ""}
+
+
+}
